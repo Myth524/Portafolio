@@ -179,6 +179,24 @@ export const Bio = {
     category: "web",
     github: "https://github.com/Myth524/Animes",
   },
+  {
+    id: 2,
+    title: "Portafolio",
+    date: "Mar 2024",
+    description:
+      "It is a web developer portafolio.",
+    image:
+      "https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2023/04/portafolio-programador.webp",
+    tags: [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Motion Framer",
+    ],
+    category: "web",
+    github: "https://github.com/Myth524/Portafolio",
+  },
 ];
 
   
