@@ -197,6 +197,24 @@ export const Bio = {
     category: "web",
     github: "https://github.com/Myth524/Portafolio",
   },
+  {
+    id: 3,
+    title: "Who's that pokemon_",
+    date: "Apr 2024",
+    description:
+      "It is a pokemon game.",
+    image:
+      "https://imgs.search.brave.com/7diCWvxfz_OO85AzFv3tNGB70dkkM_jEVSkVhCemyWs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1LzgwLzI0LzQx/LzM2MF9GXzU4MDI0/NDExNF9qVHF6dlk5/ZU5uODJ6YTZEZXN0/R0NITUVmVkNYSzFP/Yi5qcGc",
+    tags: [
+      "TypeScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Next.js",
+    ],
+    category: "web",
+    github: "https://github.com/Myth524/pokemon-api",
+  },
 ];
 
   
